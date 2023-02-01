@@ -18,11 +18,11 @@ https://bladimirreveron.github.io/portfolio-page/
 
 In the header section you will find my name and links to the sections included in the website:
 
-!(assets/header.png)
+![header](./assets/header.png)
 
 Then you will see the website content, which includes an About Me, Work and Get in Touch section:
 
-!(assets/body.png)
+![body](./assets/body.png)
 
 ## Credits
 
